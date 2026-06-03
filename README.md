@@ -49,4 +49,23 @@ Here are the dax codes:
     )
     ```
 ## 💡 Key Business Insights Discovered:
+## 💡 Key Business Insights Discovered
 
+1. **Market Revenue Leader:** Cross-filtering regional performance reveals that **Germany** is the dominant revenue contributor, generating the highest gross transactional value for the platform.
+2. **Core Consumer Demographic:** The **46–60 age bracket** represents the most active user base on the platform, identifying them as the primary target audience for retention marketing campaigns.
+3. **Fulfillment & Attrition Crises:** **India** is currently experiencing the highest absolute subscription cancellation rate, signaling urgent localized fulfillment or operational issues in that region.
+4. **Pause vs. Churn Inverse Trend:** Regional analysis indicates an inverse correlation between account states: countries with the highest volume of **paused** memberships show significantly lower full **cancellation** rates.
+5. **High-Risk Onboarding Segment:** Customers who state a preference for the **Clothing** category during onboarding account for the highest velocity of total subscription terminations.
+6. **Muted Engagement Profiles:** Customers whose onboarding preference is the **Home** category exhibit a unique behavioral pattern, tracking with the highest rate of temporary subscription **pauses**.
+7. **Cross-Departmental Purchasing Behavior:** A strong secondary affinity trend exists in product alignment—users who choose "Other" as their core interest profile still heavily complete actual purchases within the **Clothing** category.
+## 📂 Repository Contents
+* `📁 Dataset/` 
+* `📁 Dashboard_Screenshots/` 
+* `📄 project_file.pbip` - The complete Power BI project file directory containing report layouts and dataset connections.
+
+## 📬 Contact & Collaboration
+Developed by **Momin Abdullah** *Available for Freelance Business Intelligence and Data Modeling Contracts.*
+
+* **Fiverr:** [https://www.fiverr.com/s/aklN9mW]
+* **LinkedIn:** [www.linkedin.com/in/momin-abdullah-64918333b]
+* **Email:** [Mominabdullah602@gmail.com]
